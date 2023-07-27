@@ -1,0 +1,41 @@
+
+.navbar {
+    background-color: orange;
+    padding: 20px;
+  }
+  
+  .navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-item {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .navbar-link {
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+  }
+  
+  .navbar-link:hover {
+    background-color: white;
+    color: orange;
+  }
+  
+  .navbar-container {
+    background-color: lavender;
+  }
+  
+  body{
+    background-color: lightblue;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 50px;
+  }
+  
